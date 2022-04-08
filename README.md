@@ -23,5 +23,5 @@ $ kill *Your Procces Pid*
 
 
 - Author - [Georgy Khrulev](https://currentecalamo.herokuapp.com/requisites/)
-- Website - [currentecalamo.com](currentecalamo.herokuapp.com)
+- Website - [currentecalamo.com](https://currentecalamo.herokuapp.com)
 - ~~Twitter~~ - [@currentecalamo](https://twitter.com/)
