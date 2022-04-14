@@ -1,5 +1,5 @@
 # CLUSTERINNODE
-Clustering is the launch of multiple instances of the same application to distribute processing of incoming requests between them. And this is one of the implementations of this approach.
+Clustering is the launch of multiple instances of the same application to distribute the processing of incoming requests between them. And this is my implementation of this approach.
 
 ## Running the app
 
